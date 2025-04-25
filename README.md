@@ -2,7 +2,11 @@
 
 **`Desenvolvedor BackEnd`**
 
-Olá, me chamo Bryan Souto, tenho 21 anos e sou de Bauru interior de São Paulo. Atualmente, estou cursando Ciência da Computação na FIB. Acabei me encontrando no ramo de tecnologia e desejo evoluir nessa área cada dia mais!
+🎯 Sobre mim
+
+Sou estudante de Ciência da Computação, com 21 anos, apaixonado por tecnologia e desenvolvimento de software. Tenho experiência prática com Python e automação utilizando Selenium, além de conhecimentos em C, C++, JavaScript e fundamentos de programação orientada a objetos. Também aprendi e adquiri experiência com bancos de dados, especialmente Microsoft SQL Server.
+
+Atualmente, estou focado em evoluir minhas habilidades técnicas e contribuir para projetos desafiadores que impactem positivamente o dia a dia das pessoas. Meu objetivo de carreira é atuar como desenvolvedor em uma grande empresa de tecnologia, onde eu possa crescer profissionalmente, aprender com os melhores e gerar valor real através do meu código.
 
 <p align="left">
     <a href="https://github.com/bryansoutu?tab=followers">
